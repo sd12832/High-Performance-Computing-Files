@@ -6,6 +6,8 @@
 
 - These programs have been optimized for University of Bristol's Blue Crystal Advanced Computing System. 
   The OpenCL coursework has been optimized for a single NVIDIA K20 GPU. 
+  
+- Please read the PDFs for further information! 
 
 Sharan Duggirala
 -- 15/03/2015 -- 
