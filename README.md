@@ -10,7 +10,7 @@
 - Please read the PDFs for further information! 
 
 
-*Picture Below, the Blue Crystal Advanced Computing System.*
+*Pictured Below, the Blue Crystal Advanced Computing System.*
 
 ![](https://www.acrc.bris.ac.uk/images/HPC-1.jpg)
 
